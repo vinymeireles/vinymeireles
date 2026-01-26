@@ -92,7 +92,7 @@ Sistema industrial inteligente para análise e otimização de processos
 ---
 
 ### 📊 AgentAI Finance  
-Plataforma multiagente para dashboards, previsões e automação empresarial  
+Plataforma multiagente Inteligência Artificial para Análise Financeira
 
 ---
 
@@ -104,6 +104,10 @@ Sistema de IA para gestão logística e tomada de decisão operacional
 ### 🧠 AgentAI SentimentX  
 Classificação de sentimentos com LLM + Machine Learning  
 
+---
+
+### 📣 AgentAI Marketing 
+sistema avançado baseado em IA Multiagente para criação de campanhas de Marketing
 ---
 
 ### 📈 Projeto Covid-19  

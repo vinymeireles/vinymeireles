@@ -131,9 +131,8 @@ Análise exploratória e visualização de dados públicos
 ✅ Arquiteturas avançadas de Agents AI  
 ✅ GenAI aplicado a negócios  
 ✅ Pipelines de produção em ML  
-✅ Visão Computacional
-✅ Linguagem de Processamento Natural (LLM)
 ✅ Orquestração multiagente  
+
 
 ---
 

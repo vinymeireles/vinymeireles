@@ -76,7 +76,7 @@ Atualmente desenvolvo projetos como **AgentAI Factory, AgentAI Business Hub, Log
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/872/large_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" width="40"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40"/>
 </p>
 

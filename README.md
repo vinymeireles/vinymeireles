@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá 👋, eu sou Vinícius Meireles</h1>
+<h1 align="center">Olá 👋, eu sou Vinicius Meireles</h1>
 <h3 align="center">AI Engineer • Cientista de Dados • Criador de Sistemas Inteligentes com Agentes de IA</h3>
 
 <p align="center">
@@ -107,7 +107,8 @@ Classificação de sentimentos com LLM + Machine Learning
 ---
 
 ### 📣 AgentAI Marketing 
-sistema avançado baseado em IA Multiagente para criação de campanhas de Marketing
+Sistema de IA Multiagente para criação de campanhas de Marketing
+
 ---
 
 ### 📈 Projeto Covid-19  
@@ -115,9 +116,6 @@ Análise exploratória e visualização de dados públicos
 
 ---
 
-*(Você pode fixar esses repositórios no topo do GitHub)*
-
----
 
 ## 📊 GitHub Stats
 
@@ -133,7 +131,8 @@ Análise exploratória e visualização de dados públicos
 ✅ Arquiteturas avançadas de Agents AI  
 ✅ GenAI aplicado a negócios  
 ✅ Pipelines de produção em ML  
-✅ Engenharia de dados  
+✅ Visão Computacional
+✅ Linguagem de Processamento Natural (LLM)
 ✅ Orquestração multiagente  
 
 ---

@@ -126,7 +126,7 @@ Análise exploratória e visualização de dados públicos
 
 ---
 
-## 🌱 Atualmente estudando
+## 🧠 Especializando em
 
 ✅ Arquiteturas avançadas de Agents AI  
 ✅ GenAI aplicado a negócios  

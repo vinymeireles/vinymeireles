@@ -87,8 +87,6 @@ Atualmente desenvolvo projetos como **AgentAI Factory, AgentAI Business Hub, Log
 ### 🤖 AgentAI Factory  
 Sistema industrial inteligente para análise e otimização de processos  
 
-🔗 https://github.com/vinymeireles
-
 ---
 
 ### 📊 AgentAI Finance  

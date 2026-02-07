@@ -84,33 +84,41 @@ Atualmente desenvolvo projetos como **AgentAI Factory, AgentAI Business Hub, Log
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 AgentAI Factory  
+### 🤖 AgentAI Factory - Private
 Sistema industrial inteligente para análise e otimização de processos  
 
 ---
 
-### 📊 AgentAI Finance  
+### 📊 AgentAI Finance - Private
 Plataforma multiagente Inteligência Artificial para Análise Financeira
 
 ---
 
-### 📦 AgentAI Logistics Suite  
+### 📦 AgentAI Logistics Suite - Private 
 Sistema de IA para gestão logística e tomada de decisão operacional  
 
 ---
 
-### 🧠 AgentAI SentimentX  
+### 🧠 AgentAI SentimentX - Private
 Classificação de sentimentos com LLM + Machine Learning  
 
 ---
 
-### 📣 AgentAI Marketing 
+### 📣 AgentAI Marketing - Private
 Sistema de IA Multiagente para criação de campanhas de Marketing
 
 ---
 
-### 📈 Projeto Covid-19  
+### 📈 Projeto Covid-19  - Public
 Análise exploratória e visualização de dados públicos  
+
+---
+
+### 🎬 Projeto RecoFlix AI  - Public
+Análise de Assinaturas e Recomendações Inteligentes para Streaming 
+
+---
+## Quer contratar as soluções para a sua empresa acesse o 🌐 Site oficial: https://vimeup.com/solucoes/
 
 ---
 

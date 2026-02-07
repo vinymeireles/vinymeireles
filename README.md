@@ -118,8 +118,10 @@ Análise exploratória e visualização de dados públicos
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinymeireles&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinymeireles&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinymeireles&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinymeireles&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 

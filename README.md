@@ -118,9 +118,10 @@ Análise exploratória e visualização de dados públicos
 
 ## 📊 GitHub Stats
 
+<p align="center">
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinymeireles&show_icons=true&theme=tokyonight"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinymeireles&layout=compact&theme=tokyonight"/>
-
+</p>
 
 
 ---

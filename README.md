@@ -118,7 +118,7 @@ Análise exploratória e visualização de dados públicos
 Análise de Assinaturas e Recomendações Inteligentes para Streaming 
 
 ---
-### Quer contratar as soluções para a sua empresa acesse o 🌐 Site oficial: https://vimeup.com/solucoes/
+### 🚨 Quer contratar as soluções para a sua empresa acesse o 🌐 Site oficial: https://vimeup.com/solucoes/
 
 ---
 
@@ -147,7 +147,7 @@ Análise de Assinaturas e Recomendações Inteligentes para Streaming
 
 📧 Email profissional: contato@vimeup.com
 🔗 LinkedIn: https://www.linkedin.com/in/pviniciusmeireles  
-🌐 Portfolio: https://www.vimeup.com  
+🌐 Portfolio: https://www.vimeup.com/solucoes  
 
 ---
 

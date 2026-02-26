@@ -34,7 +34,6 @@ Sou especialista em **Inteligência Artificial, Machine Learning e Sistemas Mult
 Atualmente desenvolvo projetos como **AgentAI Factory, AgentAI Business Hub, Logistics Suite e Analytics Systems**, focados em impacto real no negócio.
 
 🌎 Brasil  
-🌐 Site: https://www.vimeup.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pviniciusmeireles  
 
 ---

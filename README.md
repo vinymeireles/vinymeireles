@@ -83,13 +83,17 @@ Atualmente desenvolvo projetos como **AgentAI Factory, AgentAI Business Hub, Log
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 AgentAI Factory - Private
-Sistema industrial inteligente para análise e otimização de processos  
+### ☕ Coffee Predict 
+Plataforma de Inteligência Artificial aplicada ao Agronegócio na produção cafeeira
+---
+
+### 📊 AgentAI Finance
+Plataforma multiagente Inteligência Artificial para Análise Financeira
 
 ---
 
-### 📊 AgentAI Finance - Private
-Plataforma multiagente Inteligência Artificial para Análise Financeira
+### 🤖 AgentAI Factory
+Sistema industrial inteligente para análise e otimização de processos  
 
 ---
 
@@ -117,7 +121,8 @@ Análise exploratória e visualização de dados públicos
 Análise de Assinaturas e Recomendações Inteligentes para Streaming 
 
 ---
-### 🚨 Quer contratar as soluções para a sua empresa, entre em contato: (28) 999183961
+### 🚨 Quer contratar as soluções para a sua empresa, 
+entre em contato: (28) 999183961
 
 ---
 

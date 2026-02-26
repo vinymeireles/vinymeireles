@@ -147,7 +147,7 @@ Análise de Assinaturas e Recomendações Inteligentes para Streaming
 
 📧 Email profissional: contato@vimeup.com
 🔗 LinkedIn: https://www.linkedin.com/in/pviniciusmeireles  
-🌐 Portfolio: https://www.vimeup.com/solucoes  
+
 
 ---
 

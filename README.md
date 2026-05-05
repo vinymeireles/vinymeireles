@@ -97,27 +97,27 @@ Sistema industrial inteligente para análise e otimização de processos
 
 ---
 
-### 📦 AgentAI Logistics Suite - Private 
+### 📦 AgentAI Logistics Suite
 Sistema de IA para gestão logística e tomada de decisão operacional  
 
 ---
 
-### 🧠 AgentAI SentimentX - Private
+### 🧠 AgentAI SentimentX 
 Classificação de sentimentos com LLM + Machine Learning  
 
 ---
 
-### 📣 AgentAI Marketing - Private
+### 📣 AgentAI Marketing 
 Sistema de IA Multiagente para criação de campanhas de Marketing
 
 ---
 
-### 📈 Projeto Covid-19  - Public
+### 📈 Projeto Covid-19  
 Análise exploratória e visualização de dados públicos  
 
 ---
 
-### 🎬 Projeto RecoFlix AI  - Public
+### 🎬 Projeto RecoFlix AI  
 Análise de Assinaturas e Recomendações Inteligentes para Streaming 
 
 ---
